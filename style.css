@@ -1,0 +1,246 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    padding-left: 180px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    font-size: 22px;
+}
+h2{
+    padding-left: 227px;
+    margin-top: 40px;
+    margin-bottom: 3px;
+    font-size: 22px;
+}
+h3{
+    padding-top: 40px;
+    padding-left: 253px;
+    margin-top: 22px;
+    margin-bottom: 3px;
+    font-size: 20px;
+}
+h4{
+    padding-left: 215px;
+    margin-top: 40px;
+    margin-bottom: 3px;
+    font-size: 22px;
+}
+h5{
+    padding-left: 207px;
+    font-size: 9px;
+    font-weight: lighter;
+    margin-top: 2px;
+}
+#carita {
+    padding-top: 20px;
+    border-radius: 20px;
+    padding-left: 250px;
+}
+
+#elemento{
+    padding-left: 130px;
+    
+}
+
+header {
+    display: inline;
+}
+
+.navBar {
+    background-color: #2d3e50;
+    width: 600px;
+    height: 38px;
+    color: #fff;
+    margin-left: 300px;
+    line-height: 35px;
+}
+span {
+    margin-left: 60px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-right: 190px;
+    line-height: 20px;
+}
+.navBar ul li{
+    font-size: 8px;
+    font-weight: bold;
+    display: inline;
+    list-style: none;
+}
+ul li {
+    font-size: 12px;
+}
+.header {
+    margin-left: 300px;
+    background-color: #1bbc9b;
+    width: 600px;
+    height: 240px;
+    color: #fff; 
+}
+.portfolio {
+    margin-left: 300px;
+    background-color: #fff;
+    width: 600px;
+    height: 275px;
+    color:#2d3e50
+}
+#imagenesPort {
+    height: 150px; 
+    padding-top: 10px;
+    border-radius: 20px;
+    padding-left: 110px;
+}
+.about {
+    margin-left: 300px;
+    background-color: #1bbc9b;
+    width: 600px;
+    height: 270px;
+    color: #fff;
+}
+.about input[type="button"] {
+    background-color: #1bbc9b;
+    line-height: 0px;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 235px;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    text-align: left;
+}
+.columnasAbout {
+    padding-left: 130px;
+    padding-right: 70px;
+    font-size: 9px;
+    font-weight: lighter;
+    column-count: 2;
+    column-gap: normal;
+}
+
+.contactMe {
+    margin-left: 300px;
+    background-color: #fff;
+    width: 600px;
+    height: 370px;
+    color: #1b252f;
+}
+.textForm p{
+    font-size: 10px;
+    color: gray;
+    font-weight: lighter;
+    padding-left: 150px;
+    margin-top: -10px;
+    margin-bottom: -5px;
+}
+
+input[type="name"] {
+    display: inline-block;
+    font-size: 16px;
+    text-align: left;
+    border: 0px solid #e1e5e4;
+    height: 1px;
+    padding-bottom: 20px;
+}
+input[type="emailAdress"] {
+    display: inline-block;
+    font-size: 16px;
+    text-align: left;
+    border: 0px solid #e1e5e4;
+    padding-bottom: 20px;
+    height: 1px;
+}
+input[type="phoneNumber"] {
+    display: inline-block;
+    font-size: 16px;
+    text-align: left;
+    border: 0px solid #e1e5e4;
+    padding-bottom: 20px;
+    height: 1px;
+}
+input[type="message"] {
+    display: inline-block;
+    font-size: 16px;
+    text-align: left;
+    border: 0px solid #e1e5e4;
+    padding-bottom: 20px;
+    height: 70px;
+}
+.contactMe input[type="button"] {
+    background-color: #1bbc9b;
+    line-height: 0px;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 150px;
+    border: 0px;
+    text-align: left;
+}
+.whereTo {
+    display:inline-flex;
+    margin-left: 300px;
+    background-color: #2d3e50;
+    width: 600px;
+    height: 106px;
+    color: #fff;
+}
+
+#locationFooter{
+    width:140px;
+    text-align: center;
+    margin-block: 30px;
+    line-height: 11px;
+    margin-inline-start:40px; 
+}
+#locationFooter .locationTitle{
+    font-size: 11px;
+    font-weight: bold;
+}
+#locationFooter .locationSub{
+    font-size: 8px;
+}
+#arroundFooter{
+    line-height: 11px;
+    width:140px;
+    margin-left: 45px;
+    margin-block: 30px;
+    text-align: center;
+}
+#arroundFooter .arroundTitle{
+    font-size: 11px;
+    text-align: center;
+    font-weight: bold;
+}
+#aboutFooter{
+    margin-left: 35px;
+    margin-block: 30px;
+    text-align: center;
+    width:170px;
+    line-height: 11px;
+}
+#aboutFooter .aboutFreeTitle{
+    font-size: 11px;
+    font-weight: bold;
+}
+#aboutFooter .aboutFreeSub{
+    font-size: 8px;
+}
+#turquesa {
+    margin-left: 55px;
+    text-align: center;
+    color: #1bbc9b;
+    font-size: 8px;
+}
+.footer {
+    margin-top: -10px;
+    margin-left: 300px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #1b252f;
+    width: 600px;
+    height: 50px;
+    color: #fff;
+    font-size: 10px;
+}
